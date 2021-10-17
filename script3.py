@@ -1,6 +1,5 @@
-f=input(" entrer un flottant :")
+f=float(input(" entrer un flottant :"))
 if f>=0 :
-    
-    print(int("f1"))
-else : 
-    print("ereur")
+    print(int(f**(0.5)))
+else: 
+    print("erreur")
