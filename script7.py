@@ -5,4 +5,4 @@ def somme(a,b) :
 
 a=int(input('entrer le 1er valeur :'))
 b=int(input('entrer le 2eme valeur :'))
-somme(a,b)
+print(somme(a,b))
