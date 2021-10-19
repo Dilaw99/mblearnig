@@ -4,4 +4,4 @@ def reste(a,b) :
 
 a=int(input('entrer le 1er valeur :'))
 b=int(input('entrer le 2eme valeur :'))
-reste(a,b)
+print(reste(a,b))
